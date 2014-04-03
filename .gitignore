@@ -1,0 +1,23 @@
+# Maven build artifacts
+target
+out/*
+java/out/*
+java/test*
+# IntelliJ project files
+.idea
+*.iml
+*.ipr
+*.iws
+
+# Eclipse files
+.project
+.settings
+.classpath
+bin
+test-output
+
+# Vim temporary files
+*.swp
+
+# Sublime files
+*.sublime-*
