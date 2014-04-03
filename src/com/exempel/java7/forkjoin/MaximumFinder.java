@@ -1,4 +1,4 @@
-package com.exempel.java7;
+package com.exempel.java7.forkjoin;
 
 import java.util.Arrays;
 import java.util.Random;
